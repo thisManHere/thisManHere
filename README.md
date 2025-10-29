@@ -7,12 +7,12 @@
 - I am very passionate about building web apps and maintaining software systems.
 
 ## 🔧 Skills
-- My skills are: Python, Java, Flask, SQL, HTML/CSS, JavaScript.
+- My skills are: Python, Java, Flask, SQL, HTML/CSS, Linux, JavaScript.
 - Git, GitHub, REST APIs, Web Development.
 - Problem-solving and algorithmic thinking.
 
 ## 💻 About Me
-- I enjoynlearning about new technologies and improving my skills to become a better programmer.
+- I enjo learning about new technologies and improving my skills to become a better programmer.
 - I always focus on writing efficient and reliable code. 
 
 Here are some ideas to get you started:

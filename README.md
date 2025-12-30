@@ -12,12 +12,8 @@
 - Problem-solving and algorithmic thinking.
 
 ## 💻 About Me
-- I enjo learning about new technologies and improving my skills to become a better programmer.
+- I enjoy learning about new technologies and improving my skills to become a better programmer.
 - I always focus on writing efficient and reliable code. 
 
-Here are some ideas to get you started:
-
-## 🔭 I’m currently working on
-- Python OTP Authenticator
 
 
